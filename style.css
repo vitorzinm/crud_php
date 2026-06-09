@@ -118,3 +118,14 @@ button:hover {
   background: #2980b9;
   transform: translateY(-2px);
 }
+button#delete-btn {
+  margin-left: 10px;
+  height: 35px;
+  width: 40px;
+}
+
+button#edit-btn {
+  margin-left: 10px;
+  height: 35px;
+  width: 40px;
+}
